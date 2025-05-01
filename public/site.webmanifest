@@ -1,0 +1,21 @@
+{
+    "short_name": "2ip",
+    "name": "2ip",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "/favicon.ico",
+            "type": "image/x-icon",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000"
+}

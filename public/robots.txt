@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: 
+
+# Host
+Host: https://2ip.pro
+
+# Sitemaps
+Sitemap: https://2ip.pro/sitemap.xml
